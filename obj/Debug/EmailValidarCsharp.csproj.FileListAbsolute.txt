@@ -1,0 +1,10 @@
+C:\Users\halin\Desktop\Exercícios\EmailValidarCsharp\EmailValidarCsharp\bin\Debug\EmailValidarCsharp.exe.config
+C:\Users\halin\Desktop\Exercícios\EmailValidarCsharp\EmailValidarCsharp\bin\Debug\EmailValidarCsharp.exe
+C:\Users\halin\Desktop\Exercícios\EmailValidarCsharp\EmailValidarCsharp\bin\Debug\EmailValidarCsharp.pdb
+C:\Users\halin\Desktop\Exercícios\EmailValidarCsharp\EmailValidarCsharp\obj\Debug\EmailValidarCsharp.csproj.AssemblyReference.cache
+C:\Users\halin\Desktop\Exercícios\EmailValidarCsharp\EmailValidarCsharp\obj\Debug\EmailValidarCsharp.Form1.resources
+C:\Users\halin\Desktop\Exercícios\EmailValidarCsharp\EmailValidarCsharp\obj\Debug\EmailValidarCsharp.Properties.Resources.resources
+C:\Users\halin\Desktop\Exercícios\EmailValidarCsharp\EmailValidarCsharp\obj\Debug\EmailValidarCsharp.csproj.GenerateResource.cache
+C:\Users\halin\Desktop\Exercícios\EmailValidarCsharp\EmailValidarCsharp\obj\Debug\EmailValidarCsharp.csproj.CoreCompileInputs.cache
+C:\Users\halin\Desktop\Exercícios\EmailValidarCsharp\EmailValidarCsharp\obj\Debug\EmailValidarCsharp.exe
+C:\Users\halin\Desktop\Exercícios\EmailValidarCsharp\EmailValidarCsharp\obj\Debug\EmailValidarCsharp.pdb
